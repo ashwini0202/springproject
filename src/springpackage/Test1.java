@@ -9,6 +9,7 @@ public class Test1 {
         al.add("akash");
         al.add("nilam");
         al.add("shiva");
+        al.add("bablu");
         System.out.println("Hello world");
 
 
